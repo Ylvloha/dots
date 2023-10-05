@@ -1,0 +1,35 @@
+# ~/.config/alacritty/alacritty.yml
+# Ash Bellett
+
+window:
+    padding:
+        x: 15
+        y: 15
+    opacity: 0.99
+font:
+    normal:
+        family: Fira Code
+    size: 7
+
+colors:
+    primary:
+        background: '#0F111A'
+        foreground: '#8F93A2'
+    normal:
+        black: '#0F111A'
+        red: '#FF5370'
+        green: '#99C794'
+        yellow: '#C4E88D'
+        blue: '#82AAFF'
+        magenta: '#C792EA'
+        cyan: '#89DDFF'
+        white: '#464B5D'
+    bright:
+        black: '#0F111A'
+        red: '#FF5370'
+        green: '#99C794'
+        yellow: '#C4E88D'
+        blue: '#82AAFF'
+        magenta: '#C792EA'
+        cyan: '#89DDFF'
+        white: '#8F93A2'
